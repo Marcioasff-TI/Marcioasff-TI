@@ -33,6 +33,9 @@ faculdade e de projetos pessoais e acadêmicos.
 - Computação em Nuvem
 - Banco de Dados
 - Administração de Projetos
+- Algoritmos em Grafo
+- Sistemas Operacionais
+- Fundamentos de Redes de Computadores
 
 ## Projetos
 
